@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/develcrafter/css_practice_project7#readme",
   "scripts": {
-    "start": "parcel pj7_clone1.html"
+    "start": "parcel pj7_clone2.html"
   },
   "dependencies": {
     "postcss-preset-env": "^6.4.0"
